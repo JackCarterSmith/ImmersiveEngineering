@@ -1,7 +1,7 @@
 import groovy.json.JsonOutput
 
 def mainVersion = "0.12"
-def buildNumber = "98"
+def buildNumber = "99"
 
 // For those who want the bleeding edge
 buildscript {
@@ -21,7 +21,7 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 version = "${mainVersion}-${buildNumber}" + getBuildNumber()
 group = "blusunrize"
 def archiveGroup = group
-archivesBaseName = "ImmersiveEngineering"
+archivesBaseName = "ImmersiveEngineering-jcs"
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8

@@ -1,3 +1,6 @@
+##### Version 0.12-99 - BUILT
+- Fix NBT mismatch caused by other mods (rinart73)
+
 ##### Version 0.12-98 - BUILT
 - Added combat for XLFood to the cloche (LeoBeliik)
 - Added Albedo combat for the flueorescent tube (Pabilo8)
